@@ -10,10 +10,22 @@ I rewrote this project.
 
 Almost all of the Jet Pack components used in this project are based on the mvvm architecture.
 for example :
+
+
 -Room
+
+
 -RecyclerView
+
+
 -Live Data
+
+
 - View Model
+
+
 -Life cycle
+
+
 -Navigation 
 ...
