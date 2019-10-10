@@ -12,20 +12,20 @@ Almost all of the Jet Pack components used in this project are based on the mvvm
 for example :
 
 
--Room
+- Room
 
 
--RecyclerView
+- RecyclerView
 
 
--Live Data
+- LiveData
 
 
-- View Model
+- ViewModel
 
 
--Life cycle
+- Lifecycle
 
 
--Navigation 
+- Navigation 
 ...
