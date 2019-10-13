@@ -33,7 +33,7 @@ for example :
 - Kotlin coroutines :smiling_imp:
 
 
-- Unit test
+- Unit test :fire:
 
 - ...
 
