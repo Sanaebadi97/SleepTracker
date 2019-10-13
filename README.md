@@ -30,7 +30,7 @@ for example :
 - Navigation 
 
 
-- Kotlin coroutines
+- Kotlin coroutines :smiling_imp:
 
 
 - Unit test
