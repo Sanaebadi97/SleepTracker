@@ -40,4 +40,4 @@ for example :
 
 
 It's a small, very simple concept project for training and development so please **fork**.
-I'm waiting for your **PULL REQUESTS**:kissing:
+I'm waiting for your **PULL REQUESTS** :kissing:
