@@ -21,7 +21,7 @@ for example :
 - LiveData
 
 
-- ViewModel
+- ViewModel :innocent:
 
 
 - Lifecycle
