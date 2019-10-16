@@ -15,7 +15,7 @@ for example :
 - Room :sunglasses:
 
 
-- RecyclerView
+- RecyclerView 
 
 
 - LiveData :blush:
@@ -24,7 +24,7 @@ for example :
 - ViewModel :innocent:
 
 
-- Lifecycle
+- Lifecycle :punch:
 
 
 - Navigation :cupid:
