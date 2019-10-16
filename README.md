@@ -27,7 +27,7 @@ for example :
 - Lifecycle
 
 
-- Navigation 
+- Navigation :cupid:
 
 
 - Kotlin coroutines :smiling_imp:
