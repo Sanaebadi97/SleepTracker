@@ -15,7 +15,7 @@ for example :
 - Room :sunglasses:
 
 
-- RecyclerView 
+- RecyclerView :v:
 
 
 - LiveData :blush:
