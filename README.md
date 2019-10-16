@@ -18,7 +18,7 @@ for example :
 - RecyclerView
 
 
-- LiveData
+- LiveData :blush:
 
 
 - ViewModel :innocent:
