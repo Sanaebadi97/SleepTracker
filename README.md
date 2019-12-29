@@ -5,8 +5,8 @@
 
 
 
-After seeing the relevant training from the Udacity site
-I rewrote this project.
+**After seeing the relevant training from the Udacity site
+I rewrote this project.**
 
 Almost all of the Jet Pack components used in this project are based on the mvvm architecture.
 for example :
